@@ -1,4 +1,3 @@
-cryptography
 Pyrebase4
 requests
 urllib3
