@@ -31,7 +31,6 @@ pyasn1
 pyasn1-modules
 pycparser
 pycryptodome
-pycrypto
 pygal
 pyparsing
 Pyrebase
