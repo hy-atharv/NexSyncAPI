@@ -7,3 +7,4 @@ python-dotenv
 pygal
 pip==23.3.2
 cryptography
+cairosvg
