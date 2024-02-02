@@ -1,6 +1,5 @@
 Pyrebase4
 requests
-urllib3
 pandas
 flask
 dotenv
