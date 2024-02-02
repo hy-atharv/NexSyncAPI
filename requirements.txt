@@ -1,8 +1,7 @@
-Pyrebase4
+
 requests
 pandas
 flask
-dotenv
 smtplib
 fpdf
 pygal
