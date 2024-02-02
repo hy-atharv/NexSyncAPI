@@ -2,7 +2,6 @@
 requests
 pandas
 flask
-smtplib
 fpdf
 pygal
 pip==23.3.2
