@@ -3,5 +3,6 @@ requests
 pandas
 flask
 fpdf
+dotenv
 pygal
 pip==23.3.2
